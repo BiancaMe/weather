@@ -1,8 +1,28 @@
-# React + Vite
+<div align="center">
+  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h1><b>WeatherWorld</b></h1>
+  <img src="https://github.com/BiancaMe/weather/assets/37249375/2065f433-eae9-452e-bfbb-18d43d6ecb0c">
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+  WeatherWorld is a React App that allows you to search the weather in any city worldwide.
+</div>
+
+
+<div align="center">
+    <h2>🚀 Live Demo </h2>
+    - [Live Demo Link]()
+  
+## 👥 Authors <a name="authors"></a>
+
+👤 **Bianca Lopez**
+
+ GitHub: [@BiancaMe](https://github.com/BiancaMe)
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+</div>
