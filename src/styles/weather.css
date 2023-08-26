@@ -1,0 +1,49 @@
+@media only screen and (min-width: 841px) {
+  .weather-c {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+    background-image: url("https://images.unsplash.com/photo-1504253163759-c23fccaebb55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .title {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: rgb(10, 82, 197);
+    font-weight: 900;
+    font-size: 3em;
+    line-height: 0;
+  }
+}
+
+@media only screen and (max-width: 840px) {
+  .weather-c {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+    background-image: url("https://images.unsplash.com/photo-1504253163759-c23fccaebb55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .title {
+    font-size: 2.3em;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: rgb(10, 82, 197);
+    font-weight: 900;
+    line-height: 0;
+  }
+}
